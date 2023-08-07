@@ -10,4 +10,4 @@ code for paper:"Scale-flow: Estimating 3D Motion from Video"
 Scale-flow can extract 3D motion directly from video. From left to right are the input pictures, color-coded optical flow, and motion-in-depth, where white indicates larger motion towards the camera.
 
 
-Code is being sorted out...
+The improved version of the code has been released on https://github.com/HanLingsgjk/CSCV
